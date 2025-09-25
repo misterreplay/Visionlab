@@ -1,0 +1,5 @@
+{
+  "name": "VisionLab - Image & Video Editor",
+  "description": "An intuitive web-based editor for applying professional-grade color grading and texture overlays to your images and videos. Adjust settings with precision controls and see your creations come to life in real-time.",
+  "requestFramePermissions": []
+}
